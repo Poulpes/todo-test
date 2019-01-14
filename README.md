@@ -31,9 +31,7 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 
 * Créer un repo et invite @Poulpes à collaborer
 * Commit et push le plus régulièrement possible.
-* prévois un déploiement sur Heroku ou CleverCloud ou autres solutions Hosting
+* Prévois un déploiement sur Heroku ou CleverCloud ou autres solutions de Hosting
 
 * Tu as 96h pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
 * Bon courage 🚀
-
-
