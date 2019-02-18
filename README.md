@@ -7,15 +7,13 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 ### User stories
 
 * Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
-* Je dois pouvoir create/update/delete des projets ;
-* Je dois pouvoir ajouter des tâches à un projet ;
-* Je dois pouvoir update/delete des tâches ;
+* Je dois pouvoir create/delete des projets ;
+* Je dois pouvoir ajouter/supprimer des tâches à un projet ;
 * Je dois pouvoir donner un ordre de priorité à des tâches au sein d’un projet ;
 * Je dois pouvoir attribuer une deadline à une tâche ;
 * Je dois pouvoir marquer une tâche comme “réalisée” ;
 * Je dois pouvoir ajouter des commentaires à une tâche ;
 * Je dois pouvoir supprimer un commentaire ;
-* Je dois pouvoir ajouter une pièce-jointe à un commentaire ;
 
 ### Pré-requis techniques
 
