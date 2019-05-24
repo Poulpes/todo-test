@@ -8,7 +8,7 @@ Il s’agit ici de développer un outil simple qui permettra à l’utilisateur 
 
 * Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
 * Je dois pouvoir ajouter/supprimer des tâches ;
-* Je dois pouvoir donner un ordre de priorité à des tâches au sein d’un projet ;
+* Je dois pouvoir donner un ordre de priorité à des tâches ;
 * Je dois pouvoir attribuer une deadline à une tâche ;
 * Je dois pouvoir marquer une tâche comme “réalisée” ;
 * Je dois pouvoir ajouter des commentaires à une tâche ;
@@ -17,7 +17,7 @@ Il s’agit ici de développer un outil simple qui permettra à l’utilisateur 
 ### Pré-requis techniques
 
 * Il doit s’agir d’une application web avec un backend RubyOnRails et une database relationnelle (Postgresql) ;
-* Il est nécessaire de gérer à la fois l’authentication ET l’authorization : l’utilisateur ne doit pouvoir accéder qu’à ses propres projets.
+* Il est nécessaire de gérer à la fois l’authentication ET l’authorization : l’utilisateur ne doit pouvoir accéder qu’à ses propres tâches.
 * L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise) et [Pundit](https://github.com/elabs/pundit)) est recommandée.
 * Les validations doivent se faire aussi bien côté client que côté serveur ;
 * L’application doit fonctionner entièrement en mode “single page” avec des requêtes AJAX (sans rechargement de la page) ;
