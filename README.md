@@ -1,14 +1,13 @@
-# Task Manager
+# Todo List
 
 ### Sommaire
 
-Il s’agit ici de développer un outil simple (type Trello) qui permettra à l’utilisateur de gérer ses projets et la liste des tâches relatives à ces projets.
+Il s’agit ici de développer un outil simple qui permettra à l’utilisateur de gérer sa liste de tâches.
 
 ### User stories
 
 * Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
-* Je dois pouvoir create/delete des projets ;
-* Je dois pouvoir ajouter/supprimer des tâches à un projet ;
+* Je dois pouvoir ajouter/supprimer des tâches ;
 * Je dois pouvoir donner un ordre de priorité à des tâches au sein d’un projet ;
 * Je dois pouvoir attribuer une deadline à une tâche ;
 * Je dois pouvoir marquer une tâche comme “réalisée” ;
@@ -31,5 +30,5 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 * Commit et push le plus régulièrement possible.
 * Prévois un déploiement sur Heroku ou CleverCloud ou autres solutions de Hosting
 
-* Tu as 96h pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
+* Tu as 4 jours pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
 * Bon courage 🚀
