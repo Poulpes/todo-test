@@ -26,7 +26,7 @@ Il s’agit ici de développer un outil simple qui permettra à l’utilisateur 
 
 ### Workflow
 
-* Créer un repo et invite @Poulpes à collaborer
+* Créer un repo et invite @ThomasSertorio et @karine03 à collaborer
 * Commit et push le plus régulièrement possible.
 * Prévois un déploiement sur Heroku ou CleverCloud ou autres solutions de Hosting
 
