@@ -6,7 +6,7 @@ Il s’agit ici de développer un outil simple qui permettra à l’utilisateur 
 
 ### User stories
 
-* Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
+* Je dois pouvoir sign-in/sign-up avec un email/mot de passe ;
 * Je dois pouvoir ajouter/supprimer des tâches ;
 * Je dois pouvoir donner un ordre de priorité à des tâches ;
 * Je dois pouvoir attribuer une deadline à une tâche ;
